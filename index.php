@@ -31,7 +31,7 @@ function checkTime(i) {
     body
     {
         font-family: 'Inconsolata';
-        background-color: lightblue;
+        background-color: red;
     }
     </style>
 </head>
