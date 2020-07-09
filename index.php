@@ -24,14 +24,14 @@ function checkTime(i) {
     #txt {
         text-align: center;
         font-size: 32px;
-        background-color: orangered;
+        background-color: white;
         font-family: "Consolas";
         font-weight: bold;
     }
     body
     {
         font-family: 'Inconsolata';
-        background-color: red;
+        background-color: lightgreen;
     }
     </style>
 </head>
