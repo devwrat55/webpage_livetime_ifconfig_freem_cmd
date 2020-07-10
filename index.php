@@ -24,7 +24,7 @@ function checkTime(i) {
     #txt {
         text-align: center;
         font-size: 32px;
-        background-color: orangered;
+        background-color: green;
         font-family: "Consolas";
         font-weight: bold;
     }
